@@ -1,6 +1,12 @@
-# RXJS
+# RXJS | Angular
+
+Repository of studies and tests.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
+
+## Comparison of Promises and Observables
+
+![Comparison of Promises and Observables](./src/assets/images/comparison-of-promises-and-observables.png)
 
 ## Development server
 
